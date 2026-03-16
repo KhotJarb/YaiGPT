@@ -10,6 +10,8 @@ Welcome To YaiGPT!
 
 View the app here!: https://ai.studio/apps/64e290a5-03c6-4f5b-b833-31582d37fa35
 
+Disclaimer: This is a beta version, errors may occur.
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
