@@ -6,11 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-Welcome To YaiGPT!
-
-View the app here!: https://ai.studio/apps/64e290a5-03c6-4f5b-b833-31582d37fa35
-
-Disclaimer: This is a beta version, errors may occur.
+View your app in AI Studio: https://ai.studio/apps/64e290a5-03c6-4f5b-b833-31582d37fa35
 
 ## Run Locally
 
